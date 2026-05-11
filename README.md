@@ -1,4 +1,4 @@
-# Olá, eu sou a Janaine 👋
+# Olá, 
 
 Sou bacharel em Matemática pela UFMG e desenvolvo ferramentas para **automação**, **processamento de PDFs** e **organização de dados trabalhistas**.
 
@@ -6,9 +6,9 @@ Atualmente meu foco está em aplicações locais que rodam diretamente no navega
 
 ---
 
-## 🚀 Principais frentes de trabalho
+##  Principais frentes de trabalho
 
-### 📄 Processadores de contracheques
+###  Processadores de contracheques
 Motor modular em JavaScript para extrair rubricas, referências, vencimentos, descontos, bases e competências de contracheques em PDF.
 
 Principais recursos:
@@ -20,7 +20,7 @@ Principais recursos:
 - exportação para Excel/TSV;
 - suporte a layout comum e layout dual paisagem com dois holerites por página.
 
-### 🕒 Processadores de cartão de ponto
+###  Processadores de cartão de ponto
 Ferramentas para leitura de cartões de ponto em PDF e organização das batidas em formato pronto para planilhas.
 
 Principais recursos:
@@ -31,7 +31,7 @@ Principais recursos:
 - variações por empresa/layout;
 - cópia rápida em formato tabulado para Excel.
 
-### 📊 Automações em Excel e VBA
+###  Automações em Excel e VBA
 Macros e rotinas para acelerar atividades repetitivas em planilhas, especialmente em cálculos trabalhistas e organização de bases.
 
 Exemplos:
@@ -41,12 +41,12 @@ Exemplos:
 - decomposição de bases de FGTS/INSS;
 - apoio a conferências e cálculos.
 
-### 🧠 Estudos e projetos em dados
+###  Estudos e projetos em dados
 Projetos exploratórios em Python, análise de dados e automações auxiliares.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="left">
 
@@ -65,7 +65,7 @@ Projetos exploratórios em Python, análise de dados e automações auxiliares.
 
 ---
 
-## 🧩 Stack principal
+##  Stack principal
 
 | Área | Ferramentas |
 |---|---|
@@ -84,22 +84,7 @@ Projetos exploratórios em Python, análise de dados e automações auxiliares.
 | `processadores-de-contracheques` | Processadores modulares para contracheques comuns, dual paisagem e interface unificada |
 | `processadores-de-pontov1` | Conjunto de processadores de cartões de ponto por empresa/layout |
 | `VBAs` | Macros para automação de planilhas e cálculos trabalhistas |
-| `Predictor` | Projeto em Python para análise exploratória de dados e probabilidades |
+| `Predictor` | Projeto em Python para análise de odds no futebol |
 
 ---
 
-## 📚 Em evolução
-
-Atualmente venho aprofundando:
-
-- JavaScript aplicado a automação documental;
-- extração de dados por coordenadas em PDF;
-- construção de parsers adaptáveis por layout;
-- organização de dados trabalhistas para Excel;
-- boas práticas de modularização e manutenção de código.
-
----
-
-## ✨ Sobre meu perfil
-
-Tenho formação matemática e gosto de resolver problemas práticos com lógica, estrutura e automação. Meu foco é transformar tarefas manuais repetitivas em ferramentas simples, rápidas e úteis no dia a dia.
