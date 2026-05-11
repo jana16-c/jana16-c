@@ -1,14 +1,15 @@
-# Olá, 
+# Janaine Campos
 
-Sou bacharel em Matemática pela UFMG e desenvolvo ferramentas para **automação**, **processamento de PDFs** e **organização de dados trabalhistas**.
+Bacharel em Matemática pela UFMG, com foco em desenvolvimento de ferramentas para automação, processamento de documentos e análise de dados.
 
-Atualmente meu foco está em aplicações locais que rodam diretamente no navegador, sem backend, para transformar documentos complexos em dados estruturados para Excel.
+Desenvolvo aplicações locais em JavaScript para leitura de PDFs, extração de informações por coordenadas e organização de dados em formato estruturado para Excel. Também trabalho com automações em VBA e projetos em Python voltados para análise e modelagem de dados, incluindo o projeto `Predictor`, dedicado à análise de odds no futebol.
 
 ---
 
-##  Principais frentes de trabalho
+## Projetos principais
 
-###  Processadores de contracheques
+### Processadores de contracheques
+
 Motor modular em JavaScript para extrair rubricas, referências, vencimentos, descontos, bases e competências de contracheques em PDF.
 
 Principais recursos:
@@ -18,9 +19,11 @@ Principais recursos:
 - reconciliação automática de rubricas e valores;
 - seleção de rubricas;
 - exportação para Excel/TSV;
-- suporte a layout comum e layout dual paisagem com dois holerites por página.
+- suporte a layout comum e layout dual paisagem com dois holerites por página;
+- interface unificada com roteamento automático por tipo de layout.
 
-###  Processadores de cartão de ponto
+### Processadores de cartão de ponto
+
 Ferramentas para leitura de cartões de ponto em PDF e organização das batidas em formato pronto para planilhas.
 
 Principais recursos:
@@ -31,7 +34,19 @@ Principais recursos:
 - variações por empresa/layout;
 - cópia rápida em formato tabulado para Excel.
 
-###  Automações em Excel e VBA
+### Predictor
+
+Projeto em Python voltado à análise de odds no futebol, com foco em organização de dados, comparação de probabilidades e construção de indicadores para apoiar leitura estatística de partidas.
+
+Principais objetivos:
+
+- estruturar dados de odds;
+- comparar probabilidades implícitas;
+- identificar padrões em mercados esportivos;
+- aplicar lógica matemática e análise exploratória em Python.
+
+### Automações em Excel e VBA
+
 Macros e rotinas para acelerar atividades repetitivas em planilhas, especialmente em cálculos trabalhistas e organização de bases.
 
 Exemplos:
@@ -41,50 +56,45 @@ Exemplos:
 - decomposição de bases de FGTS/INSS;
 - apoio a conferências e cálculos.
 
-###  Estudos e projetos em dados
-Projetos exploratórios em Python, análise de dados e automações auxiliares.
-
 ---
 
-##  Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="left">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![PDF.js](https://img.shields.io/badge/PDF.js-FFB000?style=for-the-badge&logo=mozilla&logoColor=000)
-![SheetJS](https://img.shields.io/badge/SheetJS-0F9D58?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
 </div>
 
 ---
 
-##  Stack principal
+## Stack de atuação
 
-| Área | Ferramentas |
+| Área | Ferramentas e foco |
 |---|---|
-| Front-end local | JavaScript, HTML, CSS |
-| Extração de PDF | pdf.js, regex, análise por coordenadas |
-| Planilhas | Excel, VBA, SheetJS |
-| Dados | Python, Power BI |
-| Automação | JavaScript no navegador, macros VBA, scripts locais |
+| Automação documental | JavaScript, PDF com camada de texto, análise por coordenadas |
+| Interfaces locais | HTML, CSS, JavaScript no navegador |
+| Dados e modelagem | Python, análise exploratória, lógica matemática |
+| Planilhas | VBA, Excel, automação de rotinas |
+| Organização de dados | Extração, limpeza, padronização e exportação estruturada |
 
 ---
 
-## 📌 Projetos em destaque
+## Repositórios em destaque
 
 | Projeto | Descrição |
 |---|---|
 | `processadores-de-contracheques` | Processadores modulares para contracheques comuns, dual paisagem e interface unificada |
 | `processadores-de-pontov1` | Conjunto de processadores de cartões de ponto por empresa/layout |
-| `VBAs` | Macros para automação de planilhas e cálculos trabalhistas |
 | `Predictor` | Projeto em Python para análise de odds no futebol |
+| `VBAs` | Macros para automação de planilhas e cálculos trabalhistas |
 
 ---
 
+## Perfil técnico
+
+Minha atuação combina raciocínio matemático, automação prática e desenvolvimento de ferramentas voltadas a problemas reais de produtividade. Tenho interesse especial em soluções que transformam documentos difíceis de trabalhar em dados organizados, auditáveis e prontos para uso em planilhas ou análises.
