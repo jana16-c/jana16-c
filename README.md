@@ -1,25 +1,17 @@
-# Janaine Campos
+# Olá,
 
-Bacharel em Matemática pela UFMG, com foco em desenvolvimento de ferramentas para automação, processamento de documentos e análise de dados.
+Sou bacharel em Matemática, com foco em desenvolvimento de ferramentas para automação, processamento de documentos e análise de dados.
 
 Desenvolvo aplicações locais para leitura de PDFs, extração de informações por coordenadas e organização de dados em formato estruturado para Excel. Também trabalho com automações em VBA e projetos em Python voltados para análise e modelagem de dados, incluindo o `Predictor`, projeto dedicado à análise de odds no futebol.
 
----
-
-## Main Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" height="72" alt="JavaScript, Python, HTML e CSS" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="45" alt="VBA" />
-</div>
 
 ---
 
-## Projetos principais
+## Principais projetos
 
-### Processamento de documentos trabalhistas
+### Processadores de documentos trabalhistas
 
-Conjunto de ferramentas em JavaScript para transformar PDFs trabalhistas em dados estruturados para Excel.
+Aplicações locais em JavaScript e HTML para transformar PDFs trabalhistas em dados estruturados para Excel.
 
 Inclui:
 
@@ -28,8 +20,9 @@ Inclui:
 - leitura de PDFs com camada de texto;
 - extração por coordenadas;
 - tratamento de diferentes layouts por empresa;
-- organização dos resultados em formato tabulado;
-- cópia rápida para Excel e exportação em XLSX/TSV.
+- aplicação de regras de negócio
+- organização dos resultados em TSV/XLSX.
+
 
 Nos contracheques, o foco está na extração de rubricas, referências, vencimentos, descontos, bases e competências. Nos cartões de ponto, o foco está na organização das batidas, agrupamento por semana e tratamento de jornadas comuns ou noturnas.
 
@@ -44,16 +37,13 @@ Principais objetivos:
 - identificar padrões em mercados esportivos;
 - aplicar lógica matemática e análise exploratória em Python.
 
-### Automações em Excel e VBA
 
-Macros e rotinas para acelerar atividades repetitivas em planilhas, especialmente em cálculos trabalhistas, conferências e organização de bases.
+---
+## Main Tech Stack
 
-Exemplos:
-
-- comparação entre planilhas;
-- preenchimento automático por datas;
-- decomposição de bases de FGTS/INSS;
-- apoio a conferências e cálculos.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" height="72" alt="JavaScript, Python, HTML e CSS" />
+</div>
 
 ---
 
@@ -69,16 +59,6 @@ Exemplos:
 
 ---
 
-## Repositórios em destaque
-
-| Projeto | Descrição |
-|---|---|
-| `processadores-de-contracheques` | Processadores modulares para contracheques comuns, dual paisagem e interface unificada |
-| `processadores-de-pontov1` | Conjunto de processadores de cartões de ponto por empresa/layout |
-| `Predictor` | Projeto em Python para análise de odds no futebol |
-| `VBAs` | Macros para automação de planilhas e cálculos trabalhistas |
-
----
 
 ## Perfil técnico
 
