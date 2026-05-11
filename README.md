@@ -2,37 +2,36 @@
 
 Bacharel em Matemática pela UFMG, com foco em desenvolvimento de ferramentas para automação, processamento de documentos e análise de dados.
 
-Desenvolvo aplicações locais em JavaScript para leitura de PDFs, extração de informações por coordenadas e organização de dados em formato estruturado para Excel. Também trabalho com automações em VBA e projetos em Python voltados para análise e modelagem de dados, incluindo o projeto `Predictor`, dedicado à análise de odds no futebol.
+Desenvolvo aplicações locais para leitura de PDFs, extração de informações por coordenadas e organização de dados em formato estruturado para Excel. Também trabalho com automações em VBA e projetos em Python voltados para análise e modelagem de dados, incluindo o `Predictor`, projeto dedicado à análise de odds no futebol.
+
+---
+
+## Main Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" height="72" alt="JavaScript, Python, HTML e CSS" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="45" alt="VBA" />
+</div>
 
 ---
 
 ## Projetos principais
 
-### Processadores de contracheques
+### Processamento de documentos trabalhistas
 
-Motor modular em JavaScript para extrair rubricas, referências, vencimentos, descontos, bases e competências de contracheques em PDF.
+Conjunto de ferramentas em JavaScript para transformar PDFs trabalhistas em dados estruturados para Excel.
 
-Principais recursos:
+Inclui:
 
-- extração por coordenadas usando `pdf.js`;
-- leitura por texto corrido como fallback;
-- reconciliação automática de rubricas e valores;
-- seleção de rubricas;
-- exportação para Excel/TSV;
-- suporte a layout comum e layout dual paisagem com dois holerites por página;
-- interface unificada com roteamento automático por tipo de layout.
-
-### Processadores de cartão de ponto
-
-Ferramentas para leitura de cartões de ponto em PDF e organização das batidas em formato pronto para planilhas.
-
-Principais recursos:
-
+- processadores de contracheques;
+- processadores de cartões de ponto;
 - leitura de PDFs com camada de texto;
-- agrupamento por semana;
-- tratamento de jornadas noturnas;
-- variações por empresa/layout;
-- cópia rápida em formato tabulado para Excel.
+- extração por coordenadas;
+- tratamento de diferentes layouts por empresa;
+- organização dos resultados em formato tabulado;
+- cópia rápida para Excel e exportação em XLSX/TSV.
+
+Nos contracheques, o foco está na extração de rubricas, referências, vencimentos, descontos, bases e competências. Nos cartões de ponto, o foco está na organização das batidas, agrupamento por semana e tratamento de jornadas comuns ou noturnas.
 
 ### Predictor
 
@@ -47,7 +46,7 @@ Principais objetivos:
 
 ### Automações em Excel e VBA
 
-Macros e rotinas para acelerar atividades repetitivas em planilhas, especialmente em cálculos trabalhistas e organização de bases.
+Macros e rotinas para acelerar atividades repetitivas em planilhas, especialmente em cálculos trabalhistas, conferências e organização de bases.
 
 Exemplos:
 
@@ -55,20 +54,6 @@ Exemplos:
 - preenchimento automático por datas;
 - decomposição de bases de FGTS/INSS;
 - apoio a conferências e cálculos.
-
----
-
-## Tecnologias e ferramentas
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
-
-</div>
 
 ---
 
