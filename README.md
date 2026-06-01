@@ -63,3 +63,13 @@ Principais objetivos:
 ## Perfil técnico
 
 Minha atuação combina raciocínio matemático, automação prática e desenvolvimento de ferramentas voltadas a problemas reais de produtividade. Tenho interesse especial em soluções que transformam documentos difíceis de trabalhar em dados organizados, auditáveis e prontos para uso em planilhas ou análises.
+
+---
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jana16-c/jana16-c/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jana16-c/jana16-c/output/github-snake.svg" />
+  <img alt="Animação da cobrinha comendo a tabela de contribuições do GitHub" src="https://raw.githubusercontent.com/jana16-c/jana16-c/output/github-snake.svg" />
+</picture>
